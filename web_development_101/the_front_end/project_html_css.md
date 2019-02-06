@@ -1908,7 +1908,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Metin Karakus's Solution (Easy)](https://metinkarakus.github.io/google_homepage/) - [View in Browser](https://metinkarakus.github.io/google_homepage/)
 * [Mustapha Hammad's solution (Easy)](https://github.com/Mustapha-Hammad/google-homepage) - [View in Browser](https://mustapha-hammad.github.io/google-homepage/)
 * [machineshot's solution (Easy)](https://github.com/MachineShot/google-homepage) - [View in Browser](https://machineshot.github.io/google-homepage/)
-
+* [jl88's solution (Easy)] (https://github.com/jl88s/google-homepage/) - [View in Browser] 
+(https://github.com/jl88s/google-homepage/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
